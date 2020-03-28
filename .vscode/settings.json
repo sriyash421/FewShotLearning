@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/sriyash/anaconda3/envs/tfgpu/bin/python"
+    "python.pythonPath": "/home/sriyash/anaconda3/envs/tfgpu/bin/python",
+    "git.ignoreLimitWarning": true
 }
